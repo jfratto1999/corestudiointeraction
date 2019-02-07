@@ -1,0 +1,79 @@
+#Dialogue {
+	font-family: "Krungthep";
+	font-size: 50px;
+ 	width: 40%;
+ 	padding-top: 1300px;
+ 	margin-left: auto;
+ 	margin-right: auto;
+
+
+
+}
+
+#poem {
+	font-family: "Krungthep";
+	font-size: 50px;
+ 	width: 500px;
+ 	height: 1700px;
+ 	text-align: center;
+ 	position: relative;
+ 	margin-left: auto;
+ 	margin-right: auto;
+ 	z-index: 1;
+ 	padding-top: 700px;
+ 	padding-bottom: 700px;
+
+ 	
+}
+
+h4 {
+	font-family: "Krungthep";
+	margin: auto;
+	padding-top: 400px;
+	text-align: center;
+}
+
+h6{
+	font-family: "Krungthep";
+	margin: auto;
+	padding-top: 700px;
+	text-align: left;
+	font-size: 20px;
+
+}
+/*img {
+	width: 500px;
+	height: 500px;
+	z-index: 2;
+	margin-left: 600px;
+
+}
+
+
+/*body {
+
+	background-color: #ffedff;
+
+}
+
+/*#Layer1 {
+
+	font-family: "Apple Chancery";
+	font-size: 90px;
+	position: absolute;
+  	z-index: -1;
+  	color:#d3fe98;
+  	width: 500px;
+ 	height: 1000px;
+  	margin-left: auto;
+ 	margin-right: auto;
+ 	margin:0 0 1000px 500px; z-index:2;
+ 	padding-bottom: 700px;*/
+
+
+
+}
+
+
+
+
