@@ -1,0 +1,424 @@
+html{
+	background-color: black;
+}
+
+
+.title {
+	font-family: "Arial";
+	font-style: bold;
+	color: white;
+	text-align: center;
+	padding-top: 350px;
+}
+.coordinates {
+	font-family: "Arial";
+	font-style: bold;
+	color: white;
+	text-align: center;
+	padding-top: 600px;
+}
+
+.screw1{
+			position: absolute;
+			width: 20px;
+			height:20px;
+			border-radius: 50%;
+			background-color: #575d66;
+			margin-left: 20px;
+			margin-top: 20px;
+
+			
+}
+
+.screw2{
+			position: absolute;
+			width: 20px;
+			height:20px;
+			border-radius: 50%;
+			background-color: #575d66;
+			margin-left: 20px;
+			margin-top: 310px;
+
+			
+}
+
+.screw3{
+			position: absolute;
+			width: 20px;
+			height:20px;
+			border-radius: 50%;
+			background-color: #575d66;
+			margin-left: 660px;
+			margin-top: 20px;
+
+			
+}
+
+.screw4{
+			position: absolute;
+			width: 20px;
+			height:20px;
+			border-radius: 50%;
+			background-color: #575d66;
+			margin-left: 660px;
+			margin-top: 310px;
+
+			
+}
+
+
+.plaque1 {
+	outline: 5px solid #393c42;
+	height: 350px;
+	width: 700px;
+	background-color: #6a6d72;
+	background-image: url(light-aluminum.png);
+	margin-top: 800px;
+	margin-left: 30%;
+}
+
+.Thanks {
+	text-align: center;
+	font-size: 40px;
+	padding-top: 22%;
+	text-shadow: 0px 1px 0px rgba(255,255,255,.5);
+}
+
+.plaque2 {
+	outline: 5px solid #393c42;
+	height: 350px;
+	width: 700px;
+	background-color: #6a6d72;
+	background-image: url(brushed-alum-dark.png);
+	margin-top: 800px;
+	margin-left: 30%;
+}
+
+.Walk {
+	text-align: center;
+	font-size: 30px;
+	padding-top: 15%;
+	font-family: "Arial";
+	text-shadow: 0px 1px 0px rgba(255,255,255,.5);
+
+}
+
+.plaque3 {
+	outline: 5px solid #393c42;
+	height: 350px;
+	width: 700px;
+	background-color: #6a6d72;
+	background-image: url(light-aluminum.png);
+	margin-top: 800px;
+	margin-left: 30%;
+}
+
+.Alice {
+	text-align: center;
+	font-size: 40px;
+	padding-top: 20%;
+	text-shadow: 0px 1px 0px rgba(255,255,255,.5);
+}
+
+.plaque4 {
+	outline: 5px solid #393c42;
+	height: 350px;
+	width: 700px;
+	background-color: #6a6d72;
+	background-image: url(brushed-alum-dark.png);
+	margin-top: 800px;
+	margin-left: 30%;
+}
+
+.Paul {
+	text-align: center;
+	font-size: 40px;
+	padding-top: 13%;
+	text-shadow: 0px 1px 0px rgba(255,255,255,.5);
+}
+
+.plaque5 {
+	outline: 5px solid #393c42;
+	height: 350px;
+	width: 700px;
+	background-color: #6a6d72;
+	background-image: url(brushed-alum-dark.png);
+	margin-top: 800px;
+	margin-left: 30%;
+}
+
+.Rose {
+	text-align: center;
+	font-size: 50px;
+	padding-top: 13%;
+	text-shadow: 0px 1px 0px rgba(255,255,255,.5);
+}
+
+.plaque6{
+	outline: 5px solid #393c42;
+	height: 350px;
+	width: 700px;
+	background-color: #6a6d72;
+	background-image: url(brushed-alum-dark.png);
+	margin-top: 800px;
+	margin-left: 30%;
+}
+
+.Grandchildren{
+	text-align: center;
+	font-size: 55px;
+	padding-top: 15%;
+	text-shadow: 0px 1px 0px rgba(255,255,255,.5);
+}
+
+.plaque7{
+	outline: 5px solid #393c42;
+	height: 350px;
+	width: 700px;
+	background-color: #6a6d72;
+	background-image: url(brushed-alum-dark.png);
+	margin-top: 800px;
+	margin-left: 30%;
+}
+
+.Ozzie{
+	text-align: center;
+	font-size: 50px;
+	padding-top: 9%;
+	text-shadow: 0px 1px 0px rgba(255,255,255,.5);
+}
+
+.plaque8{
+	outline: 5px solid #393c42;
+	height: 350px;
+	width: 700px;
+	background-color: #6a6d72;
+	background-image: url(light-aluminum.png);
+	margin-top: 800px;
+	margin-left: 30%;
+}
+
+.Karyn{
+	text-align: center;
+	font-size: 30px;
+	padding-top: 15%;
+	font-family: "Arial";
+	text-shadow: 0px 1px 0px rgba(255,255,255,.5);
+}
+
+.plaque9{
+	outline: 5px solid #393c42;
+	height: 350px;
+	width: 700px;
+	background-color: #6a6d72;
+	background-image: url(brushed-alum-dark.png);
+	margin-top: 800px;
+	margin-left: 30%;
+}
+
+.Madonna{
+	text-align: center;
+	font-size: 70px;
+	padding-top: 19%;
+	font-family: "Skia";
+	text-shadow: 0px 1px 0px rgba(255,255,255,.5);
+}
+
+.plaque10{
+	outline: 5px solid #393c42;
+	height: 350px;
+	width: 700px;
+	background-color: #6a6d72;
+	background-image: url(brushed-alum-dark.png);
+	margin-top: 800px;
+	margin-left: 30%;
+}
+
+.Flora{
+	text-align: center;
+	font-size: 30px;
+	padding-top: 17%;
+	text-shadow: 0px 1px 0px rgba(255,255,255,.5);
+
+}
+
+.plaque11{
+	outline: 5px solid #393c42;
+	height: 350px;
+	width: 700px;
+	background-color: #6a6d72;
+	background-image: url(brushed-alum-dark.png);
+	margin-top: 800px;
+	margin-left: 30%;
+
+}
+
+.Cohen{
+	text-align: center;
+	font-size: 30px;
+	padding-top: 14%;
+	font-family: "Arial";
+	text-shadow: 0px 1px 0px rgba(255,255,255,.5);
+}
+
+.plaque12{
+	outline: 5px solid #393c42;
+	height: 350px;
+	width: 700px;
+	background-color: #6a6d72;
+	background-image: url(brushed-alum-dark.png);
+	margin-top: 800px;
+	margin-left: 30%;
+}
+
+.Irving{
+	text-align: center;
+	font-size: 25px;
+	padding-top: 12%;
+	text-shadow: 0px 1px 0px rgba(255,255,255,.5);
+}
+
+.plaque13{
+	outline: 5px solid #393c42;
+	height: 350px;
+	width: 700px;
+	background-color: #6a6d72;
+	background-image: url(brushed-alum-dark.png);
+	margin-top: 800px;
+	margin-left: 30%;
+}
+
+.Marge{
+	text-align: center;
+	font-size: 50px;
+	padding-top: 17%;
+	text-shadow: 0px 1px 0px rgba(255,255,255,.5);
+}
+
+.plaque14{
+	outline: 5px solid #393c42;
+	height: 350px;
+	width: 700px;
+	background-color: #6a6d72;
+	background-image: url(brushed-alum-dark.png);
+	margin-top: 800px;
+	margin-left: 30%;
+}
+
+.BL{
+	text-align: center;
+	font-size: 34px;
+	padding-top: 15%;
+	font-family: "Skia"; 
+	text-shadow: 0px 1px 0px rgba(255,255,255,.5);
+}
+
+.plaque15{
+	outline: 5px solid #393c42;
+	height: 350px;
+	width: 700px;
+	background-color: #6a6d72;
+	background-image: url(light-aluminum.png);
+	margin-top: 800px;
+	margin-left: 30%;
+}
+
+.Hazel{
+	text-align: center;
+	font-size: 40px;
+	padding-top: 17%;
+	text-shadow: 0px 1px 0px rgba(255,255,255,.5);
+}
+
+.plaque16{
+	outline: 5px solid #393c42;
+	height: 350px;
+	width: 700px;
+	background-color: #6a6d72;
+	background-image: url(brushed-alum-dark.png);
+	margin-top: 800px;
+	margin-left: 30%;
+}
+
+.Larry{
+	text-align: center;
+	font-size: 30px;
+	padding-top: 14%;
+	font-family: "Arial";
+	text-shadow: 0px 1px 0px rgba(255,255,255,.5);
+}
+
+.plaque17{
+	outline: 5px solid #393c42;
+	height: 350px;
+	width: 700px;
+	background-color: #6a6d72;
+	background-image: url(brushed-alum-dark.png);
+	margin-top: 800px;
+	margin-left: 30%;
+}
+
+.Anya{
+	text-align: center;
+	font-size: 38px;
+	padding-top: 15%;
+	font-family: "Skia"; 
+	text-shadow: 0px 1px 0px rgba(255,255,255,.5);
+}
+
+.plaque18{
+	outline: 5px solid #393c42;
+	height: 350px;
+	width: 700px;
+	background-color: #6a6d72;
+	background-image: url(brushed-alum-dark.png);
+	margin-top: 800px;
+	margin-left: 30%;
+}
+
+.Sam{
+	text-align: center;
+	font-size: 28px;
+	padding-top: 17%;
+	text-shadow: 0px 1px 0px rgba(255,255,255,.5);
+}
+
+.plaque19{
+	outline: 5px solid #393c42;
+	height: 350px;
+	width: 700px;
+	background-color: #6a6d72;
+	background-image: url(light-aluminum.png);
+	margin-top: 800px;
+	margin-left: 30%;
+}
+
+.GL{
+	text-align: center;
+	font-size: 28px;
+	padding-top: 17%;
+	text-shadow: 0px 1px 0px rgba(255,255,255,.5);
+
+}
+
+.plaque20{
+	outline: 5px solid #393c42;
+	height: 350px;
+	width: 700px;
+	background-color: #6a6d72;
+	background-image: url(light-aluminum.png);
+	margin-top: 800px;
+	margin-left: 30%;
+	margin-bottom: 300px;
+}
+
+.Susie{
+	text-align: center;
+	font-size: 26px;
+	padding-top: 16%;
+	text-shadow: 0px 1px 0px rgba(255,255,255,.5);
+}
+
+
+
+
