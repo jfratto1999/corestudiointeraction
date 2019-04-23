@@ -1,0 +1,32 @@
+html{
+	font-family: "times new roman";
+	padding-left: 300px;
+	padding-right: 300px;
+}
+
+h1{
+	font-size: 150px;
+	text-align: center;
+	color: blue;
+}
+
+h3{
+	
+	font-size: 30px;
+	text-align: center;
+	color: hotpink;
+	padding-top: 60px;
+}
+
+p{
+	padding-top: 30px;
+	font-size: 20px;
+	
+}
+
+img{
+ 	text-align: center;
+ 	padding-left: 50px;
+}
+
+
