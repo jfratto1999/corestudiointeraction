@@ -1,0 +1,39 @@
+html{
+  margin: 20px;
+}
+h1{
+  text-align: center;
+  font-family: "Sailor Scrawl";
+  color: black;
+  font-size: 8vw;
+}
+
+
+
+button {
+  border: none;
+  text-align: center;
+  font-family: "Sailor Scrawl";
+  font-size: 30px;
+  background-color: white;
+  text-decoration: none;
+  width: 200px;
+  height: 90px;
+
+}
+
+
+
+a{
+  text-decoration: none;
+  color: red;
+}
+
+
+#home{
+
+  width: 100%;
+  text-align: left;
+  
+}
+

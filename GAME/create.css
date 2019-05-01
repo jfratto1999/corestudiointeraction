@@ -1,0 +1,201 @@
+h1{
+	text-align: center;
+	font-family: "LiebeDoni-Outline";
+  	color: black;
+  	font-size: 8vw;
+}
+
+
+button {
+  border: none;
+  font-family: "LiebeDoni-Outline";
+  font-size: 25px;
+  background-color: white;
+  text-decoration: none;
+  width: 150px;
+  height: 90px;
+  color: red;
+
+
+}
+
+a{
+  text-decoration: none;
+  color: red;
+}
+
+
+div{
+	display: block;
+}
+
+
+#t1{
+	position: fixed;
+    top: 800px;
+    left: 10%;
+    cursor: move;
+    z-index: 10;
+
+}
+
+#t2{
+    position: fixed;
+    top: 800px;
+    left: 10%;
+    cursor: move;
+    z-index: 10;
+}
+
+#t3{
+    position: fixed;
+    top: 700px;
+    left: 10%;
+    cursor: move;
+    z-index: 10;
+}
+
+#t4{
+    position: fixed;
+    top: 800px;
+    left: 10%;
+    cursor: move;
+    z-index: 10;
+}
+
+#t5{
+    position: fixed;
+    top: 700px;
+    left: 11%;
+    cursor: move;
+    z-index: 10;
+}
+
+#t6{
+    position: fixed;
+    top: 800px;
+    left: 10%;
+    cursor: move;
+    z-index: 10;
+}
+
+#t7{
+    position: fixed;
+    top: 800px;
+    left: 10%;
+    cursor: move;
+    z-index: 10;
+}
+
+#t8{
+    position: fixed;
+    top: 800px;
+    left: 10%;
+    cursor: move;
+    z-index: 10;
+}
+
+#t9{
+    position: fixed;
+    top: 800px;
+    left: 10%;
+    cursor: move;
+    z-index: 10;
+}
+
+#t10{
+    position: fixed;
+    top: 800px;
+    left: 10%;
+    cursor: move;
+    z-index: 10;
+}
+
+#t11{
+    position: fixed;
+    top: 800px;
+    left: 10%;
+    cursor: move;
+    z-index: 10;
+}
+
+#t12{
+    position: fixed;
+    top: 800px;
+    left: 10%;
+    cursor: move;
+    z-index: 10;
+}
+
+#t13{
+    position: fixed;
+    top: 800px;
+    left: 10%;
+    cursor: move;
+    z-index: 10;
+}
+
+#t14{
+    position: fixed;
+    top: 800px;
+    left: 10%;
+    cursor: move;
+    z-index: 10;
+}
+
+#t15{
+    position: fixed;
+    top: 800px;
+    left: 10%;
+    cursor: move;
+    z-index: 10;
+}
+
+#t16{
+    position: fixed;
+    top: 800px;
+    left: 10%;
+    cursor: move;
+    z-index: 9;
+}
+
+#t17{
+    position: fixed;
+    top: 800px;
+    left: 10%;
+    cursor: move;
+    z-index: 9;
+}
+
+#t18{
+    position: fixed;
+    top: 800px;
+    left: 10%;
+    cursor: move;
+    z-index: 10;
+}
+
+#t19{
+    position: fixed;
+    top: 800px;
+    left: 10%;
+    cursor: move;
+    z-index: 10;
+}
+
+#t20{
+    position: fixed;
+    top: 800px;
+    left: 10%;
+    cursor: move;
+    z-index: 10;
+}
+
+#t21{
+    position: fixed;
+    top: 800px;
+    left: 10%;
+    cursor: move;
+    z-index: 10;
+}
+

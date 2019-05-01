@@ -1,0 +1,60 @@
+html{
+	background-color: black;
+  margin: 20px;
+  font-family: "LiebeDoni-Outline";
+}
+h1{
+	text-align: center;
+	font-family: "LiebeDoni-Outline";
+  color: white;
+  font-size: 8vw;
+}
+
+
+
+
+#creatediv{
+
+  padding-top: 150px;
+
+  width: 100%;
+  text-align: center;
+}
+
+
+
+button {
+  padding-top: 30px;
+  border: none;
+  color: red;
+  text-align: center;
+  font-family: "LiebeDoni-Outline";
+  font-size: 30px;
+  background-color: black;
+  text-decoration: none;
+  width: 200px;
+  height: 90px;
+
+
+}
+
+#back{
+  color: grey;
+}
+
+
+
+a{
+  text-decoration: none;
+  color: red;
+}
+
+div{
+  
+  width: 100%;
+  text-align: center;
+
+
+}
+
+

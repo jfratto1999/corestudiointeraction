@@ -1,0 +1,46 @@
+html{
+	background-color: black;
+  margin: 20px;
+}
+h1{
+	text-align: center;
+	font-family: "LiebeDoni-Outline";
+  color: white;
+  font-size: 8vw;
+}
+
+p{
+  padding-top: 100px;
+  font-family: "avenir";
+  font-size: 20px;
+  text-align: center;
+  color: white;
+}
+
+
+button {
+  border: none;
+  color: red;
+  padding: 20px 20px;
+  border-radius: 100%;
+  font-family: "LiebeDoni-Outline";
+  font-size: 30px;
+  background-color: black;
+  text-decoration: none;
+
+
+}
+
+
+
+a{
+  text-decoration: none;
+  color: red;
+}
+
+div{
+  
+  width: 100%;
+  text-align: center;
+  padding-top: 300px;
+}
