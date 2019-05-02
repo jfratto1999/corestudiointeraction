@@ -12,7 +12,7 @@ h1{
 p{
   padding-top: 100px;
   font-family: "avenir";
-  font-size: 35px;
+  font-size: 20px;
   text-align: center;
   color: white;
 }
@@ -24,7 +24,7 @@ button {
   padding: 40px 20px;
   border-radius: 100%;
   font-family: "LiebeDoni-Outline";
-  font-size: 70px;
+  font-size: 30px;
   background-color: black;
   text-decoration: none;
 
