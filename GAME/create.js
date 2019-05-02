@@ -51,7 +51,7 @@ for (var i = 0; i < allTattoos.length; i++) {
 // 1. to download an image of your html, there might be a way to place your html onto a canvas and then "print" (i.e. download) that canvas element
 // 2. html directly to image: https://stackoverflow.com/questions/10721884/render-html-to-an-image
   // 
-
+var drawingBeingMoved = false;
 
 
 function dragElement(elmnt) {
@@ -72,9 +72,12 @@ function dragElement(elmnt) {
     elmnt.onmousedown = dragMouseDown;
   }
 
+  
+
   function dragMouseDown(e) {
     e = e || window.event;
     e.preventDefault();
+    drawingBeingMoved = true;
     // get the mouse cursor position at startup:
     pos3 = e.clientX;
     pos4 = e.clientY;
@@ -100,6 +103,7 @@ function dragElement(elmnt) {
     // stop moving when mouse button is released:
     document.onmouseup = null;
     document.onmousemove = null;
+    drawingBeingMoved = false;
   }
 }
 
@@ -110,9 +114,12 @@ function setup() {
 }
 
 function draw() {
+
   stroke(0);
   if (mouseIsPressed === true) {
-    line(mouseX, mouseY, pmouseX, pmouseY);
+    if (drawingBeingMoved == false) {
+      line(mouseX, mouseY, pmouseX, pmouseY);
+    }
   }
 }
 
