@@ -12,9 +12,10 @@ button {
   font-size: 25px;
   background-color: white;
   text-decoration: none;
-  width: 150px;
-  height: 90px;
+  width: 110px;
+  height: 60px;
   color: red;
+  text-align: center;
 
 
 }
@@ -32,56 +33,66 @@ div{
 
 #t1{
 	position: fixed;
-    top: 800px;
+    top: 750px;
     left: 10%;
     cursor: move;
     z-index: 10;
+    width: 100%;
 
 }
 
 #t2{
     position: fixed;
-    top: 800px;
+    top: 600px;
     left: 10%;
     cursor: move;
     z-index: 10;
+    width: 100%;
 }
 
 #t3{
     position: fixed;
-    top: 700px;
+    top: 340px;
     left: 10%;
     cursor: move;
     z-index: 10;
+    width: 100%;
 }
 
 #t4{
     position: fixed;
-    top: 800px;
+    top: 500px;
     left: 10%;
     cursor: move;
     z-index: 10;
+    width: 100%;
+
+
 }
 
 #t5{
     position: fixed;
-    top: 700px;
+    top: 500px;
     left: 11%;
     cursor: move;
     z-index: 10;
+        width: 100%;
+
 }
 
 #t6{
     position: fixed;
-    top: 800px;
+    top: 400px;
     left: 10%;
     cursor: move;
     z-index: 10;
+        width: 100%;
+
 }
 
 #t7{
     position: fixed;
-    top: 800px;
+    top: 300px;
     left: 10%;
     cursor: move;
     z-index: 10;
@@ -89,7 +100,7 @@ div{
 
 #t8{
     position: fixed;
-    top: 800px;
+    top: 600px;
     left: 10%;
     cursor: move;
     z-index: 10;
@@ -97,7 +108,7 @@ div{
 
 #t9{
     position: fixed;
-    top: 800px;
+    top: 700px;
     left: 10%;
     cursor: move;
     z-index: 10;
@@ -105,7 +116,7 @@ div{
 
 #t10{
     position: fixed;
-    top: 800px;
+    top: 700px;
     left: 10%;
     cursor: move;
     z-index: 10;
@@ -113,7 +124,7 @@ div{
 
 #t11{
     position: fixed;
-    top: 800px;
+    top: 600px;
     left: 10%;
     cursor: move;
     z-index: 10;
@@ -121,7 +132,7 @@ div{
 
 #t12{
     position: fixed;
-    top: 800px;
+    top: 500px;
     left: 10%;
     cursor: move;
     z-index: 10;
@@ -129,7 +140,7 @@ div{
 
 #t13{
     position: fixed;
-    top: 800px;
+    top: 400px;
     left: 10%;
     cursor: move;
     z-index: 10;
@@ -137,7 +148,7 @@ div{
 
 #t14{
     position: fixed;
-    top: 800px;
+    top: 300px;
     left: 10%;
     cursor: move;
     z-index: 10;
@@ -145,7 +156,7 @@ div{
 
 #t15{
     position: fixed;
-    top: 800px;
+    top: 200px;
     left: 10%;
     cursor: move;
     z-index: 10;
@@ -153,7 +164,7 @@ div{
 
 #t16{
     position: fixed;
-    top: 800px;
+    top: 500px;
     left: 10%;
     cursor: move;
     z-index: 9;
@@ -161,7 +172,7 @@ div{
 
 #t17{
     position: fixed;
-    top: 800px;
+    top: 300px;
     left: 10%;
     cursor: move;
     z-index: 9;
@@ -169,7 +180,7 @@ div{
 
 #t18{
     position: fixed;
-    top: 800px;
+    top: 500px;
     left: 10%;
     cursor: move;
     z-index: 10;
@@ -177,7 +188,7 @@ div{
 
 #t19{
     position: fixed;
-    top: 800px;
+    top: 400px;
     left: 10%;
     cursor: move;
     z-index: 10;
@@ -185,7 +196,7 @@ div{
 
 #t20{
     position: fixed;
-    top: 800px;
+    top: 300px;
     left: 10%;
     cursor: move;
     z-index: 10;
@@ -193,7 +204,7 @@ div{
 
 #t21{
     position: fixed;
-    top: 800px;
+    top: 600px;
     left: 10%;
     cursor: move;
     z-index: 10;

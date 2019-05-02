@@ -23,7 +23,7 @@ dragElement(document.getElementById("t21"));
 
 // random amount
 var allTattoos = document.getElementsByClassName("tattoo_image")
-var randomAmount = 5 + Math.round(Math.random()*5)
+var randomAmount = 3 + Math.round(Math.random()*2)
 
 var counter = 0;
 
@@ -34,10 +34,10 @@ for (var i = 0; i < allTattoos.length; i++) {
   }else{
     // if the tattoo is displayed, increase the count, also give it a random position
 
-    var leftPosition = Math.round(Math.random()*90);
-    var topPosition = Math.round(Math.random()*90);
-    allTattoos[i].style.left = leftPosition + "%";
-    allTattoos[i].style.top = topPosition + "%";
+   // var leftPosition = Math.round(Math.random()*90);
+   // var topPosition = Math.round(Math.random()*90);
+   // allTattoos[i].style.left = leftPosition + "%";
+   // allTattoos[i].style.top = topPosition + "%";
 
 
     counter++;
@@ -103,11 +103,43 @@ function dragElement(elmnt) {
   }
 }
 
-document.getElementById("download").onmousedown = function(){
+
+function setup() {
+  createCanvas(1500, 1500);
+  background(255, 255, 255);
+}
+
+function draw() {
+  stroke(0);
+  if (mouseIsPressed === true) {
+    line(mouseX, mouseY, pmouseX, pmouseY);
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*document.getElementById("download").onmousedown = function(){
   console.log("test")
   html2canvas(document.body).then(function(canvas) {
       
       canvas.setAttribute('crossOrigin', 'anonymous');
+*/
 
 
       // steps:
@@ -126,8 +158,6 @@ document.getElementById("download").onmousedown = function(){
       // this doesnt work bc of "tainted canvas" being generated.  (this may work on github pages?)
       // you still have access to the canvas (which stupidly canb e downloaded with a right click "save image")
 
-  });
-}
 
 
 
