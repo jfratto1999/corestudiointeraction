@@ -1,0 +1,51 @@
+html{
+	margin: 30px;
+	font-family: "helvetica";
+
+
+}
+.typewriter{
+	display: inline-block;
+	position: relative;
+
+
+}
+
+.typewriter-text{
+
+	display: inline-block;
+	position: relative;
+	overflow: hidden;
+	animation: typing 1s steps(30, end);
+	white-space: nowrap;
+	font-size: 30px;
+	font-weight: 700;
+	box-sizing: border-box;
+}
+@keyframes typing {
+	from{
+		width: 0%
+	}
+	to{
+		width: 100%;
+	}
+}
+
+
+h2{
+	position: relative;
+}
+
+h4{
+	position: relative;
+}
+
+a{
+	text-decoration: none;
+	color: #aaadf9;
+}
+
+a:hover {
+	color: blue;
+
+}
